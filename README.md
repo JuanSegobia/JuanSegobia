@@ -34,9 +34,7 @@
 
 ###
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/JuanSegobia/count.svg?"  />
-</div>
+[![Juan Segobia profile views](https://u8views.com/api/v1/github/profiles/71734396/views/day-week-month-total-count.svg)](https://u8views.com/github/JuanSegobia)
 
 ###
 
