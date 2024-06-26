@@ -1,10 +1,24 @@
-![Header](./github-header.png)
+<img src="svg/header_en.svg"></img>
+
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Un poco sobre mi</h2></summary>
+  </ul>
+</div>
+
+- 📚 Actualmente estudiando Licenciatura en Informatica en la UNLP.
+
+- 📊 Estoy interesado en todo lo relacionado con BigData.
 
 
 
-<h2 align="left"></h2>
-
-###
+---
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h3 style="display: inline-block">Estadisticas de GitHub</h3></summary>
+  </ul>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanSegobia&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=monokai&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -17,25 +31,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=JuanSegobia&theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.instagram.com/juansegobiaa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="juansegobia2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/juan-segobia-b400521b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+  [![Juan Segobia profile views](https://u8views.com/api/v1/github/profiles/71734396/views/day-week-month-total-count.svg)](https://u8views.com/github/JuanSegobia)
 
-###
-
-[![Juan Segobia profile views](https://u8views.com/api/v1/github/profiles/71734396/views/day-week-month-total-count.svg)](https://u8views.com/github/JuanSegobia)
-
+---
 ###
 
 <div align="center">
@@ -43,6 +43,4 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=juansegobia&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
 
